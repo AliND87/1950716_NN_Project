@@ -33,7 +33,9 @@ in the original code it is implemented in "Keras" which enables the training and
 <hr/>
 
 ## Results 
-the rseults are reported in the notebook "NN_1950716.ipynb" as well as github repository   and first section describes in details how to run the experiment.
+the rseults are reported in the notebook "NN_1950716.ipynb" as well as github repository https://github.com/AliND87/1950716_NN_Project/tree/main/experiments  
+
+first section describes in details how to run the experiment.
 
  
  <figure>
@@ -48,6 +50,6 @@ the rseults are reported in the notebook "NN_1950716.ipynb" as well as github re
  <center>
  <img src='https://i.postimg.cc/85PyqLnh/2.png' width="600" 
       height="250"/>
- <figcaption>Training loss</figcaption></center>
+ <figcaption>Actual vs Predicted</figcaption></center>
  </figure>
 
