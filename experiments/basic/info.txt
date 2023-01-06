@@ -1,0 +1,1 @@
+Performed experiment with following parameters: basic features, mape loss function, , Time_stamps [2], models ['LSTM', 'RNN', 'GRU', 'BLSTM', 'BRNN', 'BGRU'], on 2023-01-05 22:18:46.868173
