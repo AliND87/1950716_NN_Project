@@ -33,4 +33,21 @@ in the original code it is implemented in "Keras" which enables the training and
 <hr/>
 
 ## Results 
-the rseults are reported in the notebook "NN_1950716.ipynb" and first section describes in details how to run the experiment.
+the rseults are reported in the notebook "NN_1950716.ipynb" as well as github repository   and first section describes in details how to run the experiment.
+
+ 
+ <figure>
+ <center>
+ <img src='https://i.postimg.cc/63Snk5K6/overal-results.png' width="250" 
+      height="250"/>
+ <figcaption>Training loss</figcaption>
+ </center>
+ </figure>
+ 
+ <figure>
+ <center>
+ <img src='https://i.postimg.cc/85PyqLnh/2.png' width="600" 
+      height="250"/>
+ <figcaption>Training loss</figcaption></center>
+ </figure>
+
