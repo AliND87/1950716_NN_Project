@@ -20,22 +20,27 @@ E(usage in KW) , A(Average load of past k timesteps) , D(Standard Deviation of l
 
 ## My Contribution
 
-1-preprocessing step: the data come from PERCON data set should be by changed  from one minutes reading interval to 30 minutes. 
+1-preprocessing step: the data come from PERCON data set should has been  changed  from one minutes reading interval to 30 minutes and also an small bias is added to reading values to avoid unrealistic Loss values(MAPE) 
 
-2- implement the model from scratch using pytorch(as suggested ) and also for different case 
+2- implement the model from scratch using pytorch(as suggested) and also for different experiment cases as well as different networks(LSTM,GRU,RNN,BLSTM,BGRU,BRNN) 
 
-in the original code it is implemented in "Keras" which makes everything easier 
+note: in the original code it is implemented in "Keras" 
 
 3-implement training procedure for pytorch using dataloader and training loop
 
-in the original code it is implemented in "Keras" which enables the training and evaluation phases only by one line of code: model.train or model.eval 
+note: in the original code it is implemented in "Keras" which enables the training and evaluation phases only by one line of code: model.train or model.eval 
 
 <hr/>
 
 ## Results 
 the rseults are reported in the notebook "NN_1950716.ipynb" as well as github repository https://github.com/AliND87/1950716_NN_Project/tree/main/experiments  
 
-first section describes in details how to run the experiment.
+<hr/>
+
+## Requirements and "How-To-Run"
+Can be found  in second section of notebook "NN_1950716.ipynb"
+
+<hr/>
 
  
  <figure>
