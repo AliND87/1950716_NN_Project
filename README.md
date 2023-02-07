@@ -53,8 +53,8 @@ Can be found  in second section of notebook "NN_1950716.ipynb"
  
  <figure>
  <center>
- <img src='https://i.postimg.cc/85PyqLnh/2.png' width="500" 
-      height="200"/>
+ <img src='https://postimg.cc/D48y852t' width="600" 
+      height="250"/>
  <figcaption>Actual vs Predicted</figcaption></center>
  </figure>
 
